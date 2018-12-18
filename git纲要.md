@@ -9,4 +9,11 @@ git remote add origin git@github.com:xiangcman/test.git
 git push -u origin master
 ```
 - 如果公司项目已经在远端仓库有代码的时候，此时你可以通过**clone**方式到本地:
+
+```
 git clone git@github.com:xiangcman/test.git
+```
+
+- 如果远程的仓库中不存在该分支，你此时想要在本地创建好分支后，然后提交到远程的仓库中：
+
+
