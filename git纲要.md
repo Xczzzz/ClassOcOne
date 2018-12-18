@@ -21,4 +21,5 @@ git clone git@github.com:xiangcman/test.git
 master分支提了点东西
 1.dev1提交了点东西
 2.dev1提交了点东西，主分支用rebase的形式合并代码
+3.dev1提交了点东西，主分支用merge的形式合并代码
 
